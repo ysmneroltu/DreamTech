@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DreamTech/static/css/main.4cb69276.css",
+    "main.js": "/DreamTech/static/js/main.f66ef3ef.js",
+    "static/js/787.4914d84d.chunk.js": "/DreamTech/static/js/787.4914d84d.chunk.js",
+    "static/media/hero1.jpeg": "/DreamTech/static/media/hero1.9b9865f2380cfe33dad9.jpeg",
+    "static/media/gigabyte-rtx4060.jpeg": "/DreamTech/static/media/gigabyte-rtx4060.e819325e41cbf603731d.jpeg",
+    "static/media/cart.svg": "/DreamTech/static/media/cart.d6d47a2806c8e63bcc60b2d7a1af2d7b.svg",
+    "static/media/logo.svg": "/DreamTech/static/media/logo.302f62a303f22b88503668f4f9f9fa76.svg",
+    "index.html": "/DreamTech/index.html",
+    "static/media/carousel1.svg": "/DreamTech/static/media/carousel1.98efdf83a2f3a4406efdf8e65a88a826.svg",
+    "main.4cb69276.css.map": "/DreamTech/static/css/main.4cb69276.css.map",
+    "main.f66ef3ef.js.map": "/DreamTech/static/js/main.f66ef3ef.js.map",
+    "787.4914d84d.chunk.js.map": "/DreamTech/static/js/787.4914d84d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb69276.css",
+    "static/js/main.f66ef3ef.js"
+  ]
+}
