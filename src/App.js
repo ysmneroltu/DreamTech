@@ -22,6 +22,7 @@ function App() {
         <Navbar />
           <Routes>
             <Route path="/" element={<Home/>} />
+            <Route path="/DreamTech" element={<Home/>} />
             <Route path="/blog" element={<Blog/>} />
             <Route path="/catalog" element={<Catalog/>} />
             <Route path="/pcbuilder" element={<PCBuilder/>} />
